@@ -1,0 +1,33 @@
+.notifications-settings {
+    margin: 6rem 20rem;
+    width: 75%;
+  }
+  
+  .notifications-settings h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .notification-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  .notification-table th,
+  .notification-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .notification-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .notification-table td label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
